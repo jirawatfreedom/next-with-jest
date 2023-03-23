@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { Inter } from "next/font/google";
 import Image from 'next/image'
 import { useState } from "react";
